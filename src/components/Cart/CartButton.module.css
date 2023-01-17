@@ -19,3 +19,15 @@
   padding: 0.15rem 1.25rem;
   color: #1d1d1d;
 }
+
+@media (max-width: 600px) {
+  .button span {
+    font-size: 0.9rem;
+  }
+  .button span {
+    margin: 0 0.1rem;
+  }
+  .badge {
+    padding: 0.1rem 0.8rem;
+  }
+}
